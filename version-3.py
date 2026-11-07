@@ -1,4 +1,4 @@
-#This version is capable of perfectly splitting words
+#This version is capable of perfectly splitting words, this version required a rewrite of the previous version's logic
 master_symbols = {
     "h": 1,
     "he": 1,
